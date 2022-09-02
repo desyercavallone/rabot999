@@ -54,8 +54,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['17578913057'] //ur owner number
+global.ownername = " ℜタタ" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -106,15 +106,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    admin: 'Non sei admin che voi fa',
+    botAdmin: 'metteme admin e lo faccio',
+    owner: 'solo er creatore puo usa ste robbe',
+    group: 'te pare un gruppo questo? Qui non funziona',
+    private: 'te pare na chat privata? Qui non funziona',
+    bot: 'non sei un bot non funziona',
+    wait: 'sto a fa aspetta stronzo',
     linkm: 'Where is the link?',
-    error: 'Error!!',
+    error: 'ce sta n'errore',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
